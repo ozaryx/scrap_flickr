@@ -1,1 +1,1 @@
-# scrap_flickr
+# scraper for flickr

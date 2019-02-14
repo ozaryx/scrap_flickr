@@ -3,7 +3,7 @@ import re
 import requests
 from bs4 import BeautifulSoup as BS
 
-URL = r'https://www.flickr.com/search/?text={}'
+URL = r'https://bash.im/comics-calendar/2018/'
 
 # search = r'mustang+gt'
 print('''Введите ключевые слова для поиска изображений на Flickr.
